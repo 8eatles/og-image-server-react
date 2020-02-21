@@ -38,7 +38,6 @@ yarn sequelize db:migrate
 # - (Option) Start development server
 #   yarn dev (or npm run dev)
 # - (Option) Build & Start production server
-#   yarn build (or npm run build)
 #   yarn start (or npm start)
 yarn dev
 ```
